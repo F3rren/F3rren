@@ -2,7 +2,10 @@ Hi there, I'm Samuele Alessandro Di Silvestri 👋
 
 Developer & Tech Enthusiast based in Italy 🍕🤌
 
-🏗️ Building projects with Python, React and Spring Boot <br>🏫 I'm currently learning fullstack development & responsive design   <br>🎯 My goals are creating useful and scalable applications to enhance a better user experience <br><br>Outside of programming, you can find me watching anime, pruning bonsai trees, and hitting the gym. In my spare time, I also enjoy learning to fly military aircraft with Digital Combat Simulator (or DCS) 😄
+🏗️ Building projects with Python, React and Spring Boot <br>🏫 I'm currently learning fullstack development & responsive design   <br>🎯 My goals are creating useful and scalable applications to enhance a better user experience <br><br>Outside of programming, you can find me watching anime, pruning bonsai trees, and hitting the gym. In my spare time, I also enjoy learning to fly military aircraft with Digital Combat Simulator (or DCS) 😄✈️
+
+![Top Gun GIF](https://github.com/F3rren/F3rren/blob/main/topgun.gif)
+
 
 ✨ "Stay hungry. Stay foolish."
 
