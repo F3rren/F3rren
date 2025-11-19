@@ -33,17 +33,16 @@ My approach:
 
 ## 📌 Featured Projects
 
-### 🔹 **Aquarium Interface**
+### 🔹 **[Aquarium Interface](https://github.com/F3rren/aquarium-interface)**
 Cross-platform control UI for an aquarium monitoring system.  
 Built with **Python + Flet**, uses modular components, responsive layout logic, and real-time device interactions.
 
-### 🔹 **Aquarium Monitor**
+
+### 🔹 **[Aquarium Monitor](https://github.com/F3rren/aquarium-monitor)**
 Backend/embedded side of the system, written in **Java**, focused on hardware communication and sensor handling.
 
-### 🔹 **WeatherApp**
+### 🔹 **[WeatherApp](https://github.com/F3rren/WeatherApp)**
 UI-centric weather application with modular components, responsive design and clean separation of concerns.
-
-(Repos pinned above.)
 
 ---
 
