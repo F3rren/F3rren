@@ -35,7 +35,7 @@ My approach:
 
 ### 🔹 **[Aquarium Interface](https://github.com/F3rren/aquarium-interface)**
 Cross-platform control UI for an aquarium monitoring system.  
-Built with **Python + Flet**, uses modular components, responsive layout logic, and real-time device interactions.
+Built with **Flutter**, uses modular components, responsive layout logic, and real-time device interactions.
 
 
 ### 🔹 **[Aquarium Monitor](https://github.com/F3rren/aquarium-monitor)**
