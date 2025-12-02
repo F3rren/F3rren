@@ -38,7 +38,7 @@ Cross-platform control UI for an aquarium monitoring system.
 Built with **Flutter**, uses modular components, responsive layout logic, and real-time device interactions.
 
 
-### 🔹 **[Aquarium Monitor](https://github.com/F3rren/aquarium-monitor)**
+### 🔹 **[Aquarium Monitor](https://github.com/F3rren/aquarium-ms)**
 Backend/embedded side of the system, written in **Java**, focused on hardware communication and sensor handling.
 
 ### 🔹 **[WeatherApp](https://github.com/F3rren/WeatherApp)**
