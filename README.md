@@ -7,21 +7,8 @@
   hardware interaction, modular architectures, and clean, maintainable code.
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/F3rren" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 </div>
 
----
 
 ## 📌 Featured Projects
 
@@ -65,9 +52,8 @@
   </tr>
 </table>
 
----
 
-## About Me
+## 🔍 About Me
 
 My approach:
 
@@ -75,7 +61,6 @@ My approach:
 - Keep the architecture clean and predictable.
 - Build interfaces that feel modern and responsive without overengineering.
 
----
 
 ## 🛠 Tech Stack
 
@@ -107,7 +92,6 @@ My approach:
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
  
@@ -134,15 +118,12 @@ Backend/embedded side of the system, written in **Java**, focused on hardware co
 
 </div>
 
----
-
 ## 🎯 Currently Improving
 
 - Strengthening fullstack workflows (Spring Boot ↔ React)
 - Building more scalable UI components in Python/Flet
 - Improving architecture patterns and documentation quality
 
----
 
 ## 📩 Contact
 
@@ -150,16 +131,12 @@ If you want to discuss code, design decisions, or architecture improvements, fee
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/samuele-alessandro-di-silvestri-178ab939a/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:samueledisilvestri@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=F3rren&style=flat-square&color=58A6FF" alt="Profile views" />
-
+  
 </div>
